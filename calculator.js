@@ -124,7 +124,7 @@ delBtn.addEventListener('click', button => {
 function gohome(){
     setTimeout(
         function() {
-            window.location.href="../index.html"
+            window.location.href="./index.html"
         }, 700);
 
 }
